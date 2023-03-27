@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edelin</h1>
 <h3 align="center">A passionate Software Front-end developer from the smallest state in the US</h3>
 
-- 👨‍💻 All of my projects are available at [https://edelin11.github.io/EdelinPortfolios/](https://edelin11.github.io/EdelinPortfolios/)
+- 👩‍💻 All of my projects are available at [https://edelin11.github.io/EdelinPortfolios/](https://edelin11.github.io/EdelinPortfolios/)
 
 - 📫 How to reach me **espinoedelin@gmail.com**
 
